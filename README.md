@@ -58,5 +58,5 @@ MIT License. See `LICENSE.txt` for more information.
 
 
 
-[dat.GUI]: https://workshop.chromeexperiments.com/examples/gui/
+[dat.GUI]: https://opensource.google/projects/datgui
 [documents]: https://cocopon.github.io/tweakpane/
